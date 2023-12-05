@@ -1,0 +1,32 @@
+.heading
+{
+    font-size:17px;
+    width:100%;
+    margin:0px;
+    font-weight: bolder;
+    padding:15px;
+}
+
+#note
+{
+    font-size:10px;
+    color:black;
+    font-weight: bold;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border-radius: 25px;
+    box-shadow: 5px 15px 15px orangered;
+    margin-bottom: 10px;
+}
+
+btn-danger
+{
+    font-size:20px;
+}
